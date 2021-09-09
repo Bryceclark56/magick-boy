@@ -6,3 +6,7 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+twilight-cache-inmemory = "0.6"
+twilight-gateway = "0.6"
+twilight-http = "0.6"
+twilight-model = "0.6"
